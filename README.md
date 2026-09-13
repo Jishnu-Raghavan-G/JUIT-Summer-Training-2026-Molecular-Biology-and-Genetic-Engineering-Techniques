@@ -44,22 +44,77 @@ During the training, I gained theoretical understanding and hands-on laboratory 
 ## Repository Structure
 
 ```
-JUIT-Summer-Training-Molecular-Biology-and-Genetic-Engineering-Techniques/
-
+JUIT-Summer-Training/
+│
 ├── 00-Programme-Overview/
+│   └── README.md
+│
 ├── 01-Molecular-Biology-Fundamentals/
+│   ├── 01-Central-Dogma-and-Molecular-Biology-Basics.md
+│   ├── 02-DNA-RNA-and-Protein-Structure.md
+│   ├── 03-Cellular-Organization-and-Biomolecules.md
+│   ├── 04-Gene-Organization-Expression-and-Regulation.md
+│   ├── 05-Enzymes-and-Their-Role-in-Molecular-Biology.md
+│   ├── 06-pH-Buffers-and-Laboratory-Calculations.md
+│   └── 07-Molecular-Interactions-and-Stability-of-Biomolecules.md
+│
 ├── 02-Laboratory-Techniques/
+│   ├── 01-Micropipetting-and-Pipette-Handling.md
+│   ├── 02-Buffer-and-Solution-Preparation.md
+│   ├── 03-Centrifugation-and-Sample-Handling.md
+│   ├── 04-Vortexing-Mixing-and-Sample-Homogenization.md
+│   ├── 05-Aseptic-and-Sterile-Techniques.md
+│   ├── 06-Laboratory-Equipment-and-Instrumentation.md
+│   └── 07-Good-Laboratory-Practices.md
+│
 ├── 03-DNA-Technologies/
+│   ├── 01-Genomic-DNA-Isolation.md
+│   ├── 02-DNA-Quantification-and-Quality-Assessment.md
+│   ├── 03-Agarose-Gel-Electrophoresis.md
+│   ├── 04-DNA-Restriction-Enzyme-Digestion.md
+│   └── 05-DNA-Ligation.md
+│
 ├── 04-PCR-and-Gene-Amplification/
+│   ├── 01-PCR-Principle-and-Components.md
+│   ├── 02-PCR-Primer-Design.md
+│   ├── 03-PCR-Amplification.md
+│   ├── 04-PCR-Optimization-and-Troubleshooting.md
+│   └── 05-PCR-Product-Analysis.md
+│
 ├── 05-Recombinant-DNA-Technology/
+│   ├── 01-Plasmids-and-Vector-Systems.md
+│   ├── 02-Competent-Cell-Preparation.md
+│   ├── 03-Bacterial-Transformation.md
+│   ├── 04-Selection-and-Screening-of-Transformants.md
+│   └── 05-Recombinant-DNA-Workflow.md
+│
 ├── 06-Protein-Technologies/
+│   ├── 01-Protein-Extraction.md
+│   ├── 02-Protein-Quantification.md
+│   ├── 03-SDS-PAGE-Principle-and-Procedure.md
+│   ├── 04-SDS-PAGE-Analysis.md
+│   └── 05-Protein-Experiment-Troubleshooting.md
+│
 ├── 07-Microbial-Identification/
+│   ├── 01-Molecular-Methods-for-Microbial-Identification.md
+│   ├── 02-DNA-Based-Microbial-Identification.md
+│   └── 03-Interpretation-of-Microbial-Molecular-Data.md
+│
 ├── 08-Animal-Handling/
+│   ├── 01-Laboratory-Animal-Handling.md
+│   ├── 02-Intraperitoneal-IP-Administration.md
+│   ├── 03-Intramuscular-IM-Administration.md
+│   └── 04-Animal-Handling-Safety-and-Ethics.md
+│
 ├── 09-Bioinformatics-Foundations/
-├── 10-Laboratory-Journal/
+│   ├── 01-Introduction-to-Bioinformatics.md
+│   ├── 02-Biological-Sequence-Databases.md
+│   ├── 03-Sequence-Alignment.md
+│   ├── 04-BLAST-and-Sequence-Analysis.md
+│   └── 05-Bioinformatics-in-Molecular-Biology.md
+│
 └── References/
-```
-
+    └── README.md
 ---
 
 ## Repository Objectives
