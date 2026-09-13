@@ -57,8 +57,6 @@ JUIT-Summer-Training-Molecular-Biology-and-Genetic-Engineering-Techniques/
 ├── 08-Animal-Handling/
 ├── 09-Bioinformatics-Foundations/
 ├── 10-Laboratory-Journal/
-├── Laboratory-Images/
-├── Certificate/
 └── References/
 ```
 
