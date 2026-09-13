@@ -70,7 +70,7 @@ JUIT-Summer-Training/
 ├── 03-DNA-Technologies/
 │   ├── 01-Genomic-DNA-Isolation.md
 │   ├── 02-DNA-Quantification-and-Quality-Assessment.md
-│   ├── 03-Agarose-Gel-Electrophoresis.md
+│   ├── 03-DNA-and-RNA-Gel-Electrophoresis.md
 │   ├── 04-DNA-Restriction-Enzyme-Digestion.md
 │   └── 05-DNA-Ligation.md
 │
@@ -105,13 +105,6 @@ JUIT-Summer-Training/
 │   ├── 02-Intraperitoneal-IP-Administration.md
 │   ├── 03-Intramuscular-IM-Administration.md
 │   └── 04-Animal-Handling-Safety-and-Ethics.md
-│
-├── 09-Bioinformatics-Foundations/
-│   ├── 01-Introduction-to-Bioinformatics.md
-│   ├── 02-Biological-Sequence-Databases.md
-│   ├── 03-Sequence-Alignment.md
-│   ├── 04-BLAST-and-Sequence-Analysis.md
-│   └── 05-Bioinformatics-in-Molecular-Biology.md
 │
 └── References/
     └── README.md
